@@ -6,6 +6,8 @@ Performed by: Alexandra Kaluzhak, Daria Kondrikova, Anastasia Ponomareva
 
 This project is designed to provide a comprehensive analysis and accounting of agricultural fields across the USA. Utilizing extensive datasets, our system demonstrates the importance of agricultural data and how it can be leveraged to make informed decisions.
 
+The `code` contains `Main-code` which we use to create graphics in `graphics`.
+
 ## Objectives
 
 The system aims to achieve the following objectives:
